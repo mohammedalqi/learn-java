@@ -34,6 +34,13 @@ public class MatematikaBeraksi {
         getMTKCanggih.hitPengurangan(23, 24);
         getMTKCanggih.hitPengurangan(3.4, 4.9);
         
+        //Pembagian
+        System.out.println("\n--Pembagian--");
+        getMTKCanggih.hitPembagian(12.5, 28.7, 14.2);
+        getMTKCanggih.hitPembagian(12, 28, 14);
+        getMTKCanggih.hitPembagian(23, 24);
+        getMTKCanggih.hitPembagian(3.4, 4.9);
+        
         //Perkalian
         System.out.println("\n--Perkalian--");
         getMTKCanggih.hitPembagian(12.5, 28.7, 14.2);
