@@ -197,7 +197,7 @@ public class KonversiTemperaturInterface extends javax.swing.JFrame {
            jTextField2.setText(String.valueOf(celcius));
        }
        
-       //2. Mengkonversi Fahrenheit ke suhu lain
+       //2. Mengkonversi Fahrenheit ke suhu lain.
        if(field1.equals("Fahrenheit") && field2.equals("Celcius"))
        {
            double fahrenheit = Double.parseDouble(jTextField1.getText());
