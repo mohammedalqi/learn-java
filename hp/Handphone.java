@@ -11,7 +11,7 @@ package com.muhammadalqi.hp;
  */
 public class Handphone {
     
-    //Hidupkan Handphone
+    //Menghidupkan Handphone
     public void hidupkan(){
         System.out.println("Handphone hidup...");
     }
