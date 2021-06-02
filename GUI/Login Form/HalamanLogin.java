@@ -59,7 +59,7 @@ public class HalamanLogin extends javax.swing.JFrame {
 
         IconImage.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/welcome.png"))); // NOI18N
 
-        Title.setFont(new java.awt.Font("Poppins", 1, 20)); // NOI18N
+        Title.setFont(new java.awt.Font("Poppins", 1, 20));
         Title.setForeground(new java.awt.Color(255, 255, 255));
         Title.setText("Selamat Datang Kembali!");
 
